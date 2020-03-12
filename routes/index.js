@@ -9,6 +9,7 @@ router.get('/', function(req, res, next) {
   	res.render('index', { title: 'Express' });
 });
 
+//http://demo1.myhotlync.com:9001/check?email=jyyblue1987@hotmail.com
 router.get('/check', function(req, res, next) {	
 	var parts = url.parse(req.url, true);
     var query = parts.query;
