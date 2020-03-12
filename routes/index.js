@@ -13,6 +13,8 @@ router.get('/check', function(req, res, next) {
 	var parts = url.parse(req.url, true);
     var query = parts.query;
 
+    console.log("URL = ", req.url);
+
     if( !query.email )
     {
         var data = {};      
