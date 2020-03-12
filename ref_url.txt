@@ -1,0 +1,61 @@
+https://imageviewer.timelapse.com.au/
+Username - Construction Control
+Password - ccontrol4578
+
+
+https://imageviewer.timelapse.com.au/viewer/4218-57e5RdZan-BvqpsURhye1z-kM2VEbUoCj6gENV5y
+
+Server Details
+=============================
+
+Server Hostname: vmk50818.webhosting24.com.au
+Root Password: E8W9E6A6u2N4F6
+Product: Linux VM 1GB
+Main IP: 103.208.218.66
+IP Address Allocation:
+
+
+SSH Access Information
+=============================
+
+Main IP Address: 103.208.218.66
+Username: root
+Password: E8W9E6A6u2N4F6
+
+
+
+Reboots and Remote Control
+=============================
+
+From time to time you may need to reboot your VPS, this can be done via the "Services" section in the client area. You can also see bandwidth and stats from here.
+
+Client Area: https://control.web24.com.au/
+Username: nikolaj.ck@gmail.com
+Password: eeokin7!!
+
+
+DNS
+=============================
+
+Virtual Machines are set up with no DNS zone files created, this is up to the customer to set up their own DNS. There are many services available to set up DNS.
+
+Web24 also has globally redundant DNS servers you can use, you will need to purchase a DNS package for this. This will allow you to set up and create zone files to point at your VPS account.
+
+
+FTP 
+=============================
+IP Address: 103.208.218.66
+user: ftpuser
+Password: camera1234A!
+FullName: CameraViewer
+Room Number: 1000
+
+MYSQL
+=============================
+IP Address: 103.208.218.66
+user: root
+password: cameradb1234A!
+
+http://103.208.218.66/phpmyadmin
+user: root
+password: cameradb1234A!
